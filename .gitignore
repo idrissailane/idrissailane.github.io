@@ -3,6 +3,9 @@ _site
 .sass-cache
 .vagrant
 
+#IntelliJ files
+.idea
+
 # general
 .DS_Store
 Thumbs.db

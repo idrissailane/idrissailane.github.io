@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Home
 
 # Your name to show in the footer
 author: Idriss Ailane
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Test: "test"
 
 ################
 # --- Logo --- #
