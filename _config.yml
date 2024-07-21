@@ -20,11 +20,12 @@ author: Idriss Ailane
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Test: "test"
+  Blog: "/"
+  Projects: "projects"
+  About Me / Contact: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
