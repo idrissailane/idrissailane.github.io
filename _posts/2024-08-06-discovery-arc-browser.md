@@ -2,7 +2,7 @@
 layout: post
 title: Arc Browser
 subtitle: Discovery of Arc Browser
-thumbnail-img: /assets/img/arc-logo.jpeg
+thumbnail-img: /assets/img/thumb.png
 tags: [browser, software, tech]
 author: Idriss Ailane
 ---
